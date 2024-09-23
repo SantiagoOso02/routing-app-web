@@ -1,5 +1,7 @@
 import Container from "react-bootstrap/Container";
 import Navbar from "react-bootstrap/Navbar";
+import "./navbar.css";
+
 
 function NavBar() {
  return (

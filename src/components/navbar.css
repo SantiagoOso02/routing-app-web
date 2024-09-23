@@ -1,0 +1,33 @@
+/* Estilos para la barra de navegación */
+.navbar {
+    background-color: #333;
+    border-bottom: 3px solid #f2f2f2;
+    height: 60px;
+    width: 100%; 
+    position: fixed; 
+    top: 0;
+    left: 0;
+    z-index: 1000; 
+  }
+  
+  .navbar-brand {
+    font-size: 1.8rem;
+    color: #f2f2f2 !important; 
+    font-weight: bold;
+  }
+  
+  .navbar-brand:hover {
+    color: #ddd !important; 
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center; 
+  }
+  
+  body {
+    padding-top: 60px; 
+    background-color: #f7f7f7;
+    font-family: Arial, sans-serif;
+  }
+  
